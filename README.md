@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Antony '@bartolomucci' Bartolomucci
+- 👋 Hi, I’m Antony '@bartolomucci' Bartolomucci (24 years old)
 - 👀 I’m interested in new technologies and back-end (especially php♥)
 - 🌱 I’m currently learning PHP, SQL, Javascript, React.js, Angular and Java
 - 💞️ I’m looking to collaborate on any project I could help with
