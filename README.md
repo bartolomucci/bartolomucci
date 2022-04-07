@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antony '@bartolomucci' Bartolomucci
-- 👀 I’m interested in new technologies and back-end
-- 🌱 I’m currently learning php, mysql, javascript, reactJS, Angular and Java
+- 👀 I’m interested in new technologies and back-end (especially php♥)
+- 🌱 I’m currently learning PHP, SQL, Javascript, React.js, Angular and Java
 - 💞️ I’m looking to collaborate on any project I could help with
 - 📫 How to reach me ... bartolomucci.developer@gmail.com
 
