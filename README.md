@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies and back-end (especially php♥)
 - 🌱 I’m currently learning PHP, SQL, SASS, HTML & CSS, Javascript, React.js, Angular, Symfony and I am looking to learn more about CakePHP
 - 💞️ I’m looking to collaborate on any project I could help with
-- 📫 How to reach me ... bartolomucci.developer@gmail.com
+- 📫 How to reach me ... giammarino.antony@gmail.com
 
 <!---
 bartolomucci/bartolomucci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
